@@ -1,0 +1,36 @@
+./icons.json:		"file.purescript": {
+./icons.json:			"iconPath": "./src/file.purescript.svg"
+./icons.json:		"purs": "file.purescript",
+./fsicons.ai:      <rdf:Description rdf:about=""
+./fsicons.ai:               <rdf:li>Typescript</rdf:li>
+./fsicons.ai:                           <xmpG:swatchName>Typescript</xmpG:swatchName>
+./fsicons.ai:      </rdf:Description>
+./fsicons.ai:%%+ (Typescript)
+./fsicons.ai:%%+ 0.287566989660263 0.492899119853973 0.810576021671295 (Typescript)
+./fsicons.ai:endstreamendobj61554 0 obj<</CS 61564 0 R/I false/K false/S/Transparency>>endobj61555 0 obj[/Separation/Typescript 61536 0 R<</C0[100.0 0.0 0.0]/C1[52.0 1.48636 -48.2957]/Domain[0 1]/FunctionType 2/N 1.0/Range[0.0 100.0 -128.0 127.0 -128.0 127.0]>>]endobj61564 0 obj[/ICCBased 61520 0 R]endobj61551 0 obj<</Filter/FlateDecode/Length 1134>>stream
+./package.json:	"description": "Nomo Dark Icon Theme",
+Binary file ./vscode-icontheme-nomo-dark-1.3.6.vsix matches
+Binary file ./.git/objects/pack/pack-ed995b64ca48df75a241885ee3b168a9e3b8ee7f.pack matches
+./.git/description:Unnamed repository; edit this file 'description' to name the repository.
+./.git/hooks/commit-msg.sample:# An example hook script to check the commit log message.
+./.git/hooks/pre-rebase.sample:The script, being an example, hardcodes the publish branch name
+./.git/hooks/pre-commit.sample:# An example hook script to verify what is about to be committed.
+./.git/hooks/applypatch-msg.sample:# An example hook script to check the commit log message taken by
+./.git/hooks/fsmonitor-watchman.sample:# An example hook script to integrate Watchman
+./.git/hooks/pre-receive.sample:# An example hook script to make use of push options.
+./.git/hooks/prepare-commit-msg.sample:# An example hook script to prepare the commit log message.
+./.git/hooks/prepare-commit-msg.sample:# commit message, followed by the description of the commit
+./.git/hooks/post-update.sample:# An example hook script to prepare a packed repository for use over
+./.git/hooks/pre-merge-commit.sample:# An example hook script to verify what is about to be committed.
+./.git/hooks/pre-applypatch.sample:# An example hook script to verify what is about to be committed
+./.git/hooks/pre-push.sample:# An example hook script to verify what is about to be pushed.  Called by "git
+./.git/hooks/pre-push.sample:# pushed.  If this script exits with a non-zero status nothing will be pushed.
+./.git/hooks/update.sample:# An example hook script to block unannotated tags from entering.
+./.git/hooks/update.sample:	echo "Don't run this script from the command line." >&2
+./.git/hooks/update.sample:# check for no description
+./.git/hooks/update.sample:projectdesc=$(sed -e '1q' "$GIT_DIR/description")
+./.git/hooks/update.sample:	echo "*** Project description file hasn't been set" >&2
+./.git/hooks/push-to-checkout.sample:# An example hook script to update a checked-out tree on a git push.
+Binary file ./.git/index matches
+Binary file ./fsicons-2.ai matches
+./src/file.purescript.svg:<svg id="Bases" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><defs><style>.cls-1{fill:#ffd03c;}.cls-2{fill:#dcdbdd;}</style></defs><title>file.purescript</title><polygon class="cls-1" points="21.8 22.04 19.65 20.03 10.2 20.03 12.35 22.04 21.8 22.04"/><polygon class="cls-1" points="12.35 15 10.2 17.01 19.65 17.01 21.8 15 12.35 15"/><polygon class="cls-1" points="21.8 11.97 19.65 9.96 10.2 9.96 12.35 11.97 21.8 11.97"/><path class="cls-2" d="M9.2,14,7.78,12.54,2.51,17.81a1,1,0,0,0,0,1.42L7.78,24.5,9.2,23.08,4.64,18.52Z"/><path class="cls-2" d="M29.49,12.77,24.22,7.5,22.8,8.92l4.56,4.56L22.8,18l1.42,1.42,5.27-5.27a1,1,0,0,0,0-1.42Z"/></svg>
